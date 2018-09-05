@@ -7,6 +7,7 @@
 使用dotnetcore开发，运行请安装dotnet core2.1
 
 如需要发布到特定环境请使用：
+
 --win64
 dotnet publish -c Release -r win7-x64
 
@@ -21,6 +22,7 @@ dotnet publish -c Release -r osx.10.10-x64
 ./HttpServiceProxy config.json
 ./HttpServiceProxy
 两种方式运行是一样的效果
+
 
 配置文件格式如下：
 {
@@ -38,6 +40,7 @@ dotnet publish -c Release -r osx.10.10-x64
   "limit":{"LimitingType":0,"MaxTPS":100,"MaxServiceQum":10000,"MaxFreq":7200},
   "logLevel": 1
 }
+
 LimitingType:0 *TokenBucketLimitingService
 MaxTPS：每秒向令牌童中增加令牌的数量
 MaxServiceQum：令牌桶的总大小
