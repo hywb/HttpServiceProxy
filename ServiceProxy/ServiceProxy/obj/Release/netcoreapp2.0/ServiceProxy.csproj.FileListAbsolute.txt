@@ -1,0 +1,11 @@
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\ServiceProxy.deps.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\ServiceProxy.runtimeconfig.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\ServiceProxy.runtimeconfig.dev.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\ServiceProxy.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\ServiceProxy.pdb
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\ServiceProxy.csproj.CoreCompileInputs.cache
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\ServiceProxy.AssemblyInfoInputs.cache
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\ServiceProxy.AssemblyInfo.cs
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\ServiceProxy.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\ServiceProxy.pdb
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\ServiceProxy.csprojAssemblyReference.cache

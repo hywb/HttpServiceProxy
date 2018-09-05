@@ -1,0 +1,14 @@
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\win7-x64\hostpolicy.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\win7-x64\hostfxr.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\win7-x64\ServiceProxy.exe
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\win7-x64\ServiceProxy.deps.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\win7-x64\ServiceProxy.runtimeconfig.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\win7-x64\ServiceProxy.runtimeconfig.dev.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\win7-x64\ServiceProxy.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\bin\Release\netcoreapp2.0\win7-x64\ServiceProxy.pdb
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\win7-x64\ServiceProxy.csprojAssemblyReference.cache
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\win7-x64\ServiceProxy.csproj.CoreCompileInputs.cache
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\win7-x64\ServiceProxy.AssemblyInfoInputs.cache
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\win7-x64\ServiceProxy.AssemblyInfo.cs
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\win7-x64\ServiceProxy.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\ServiceProxy\obj\Release\netcoreapp2.0\win7-x64\ServiceProxy.pdb

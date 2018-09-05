@@ -1,0 +1,17 @@
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\UnitTestProject.deps.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\UnitTestProject.runtimeconfig.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\UnitTestProject.runtimeconfig.dev.json
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\UnitTestProject.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\UnitTestProject.pdb
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\ServiceProxy.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\bin\Release\netcoreapp2.0\ServiceProxy.pdb
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\obj\Release\netcoreapp2.0\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\obj\Release\netcoreapp2.0\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\obj\Release\netcoreapp2.0\UnitTestProject.AssemblyInfoInputs.cache
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\obj\Release\netcoreapp2.0\UnitTestProject.AssemblyInfo.cs
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\obj\Release\netcoreapp2.0\UnitTestProject.csproj.CopyComplete
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\obj\Release\netcoreapp2.0\UnitTestProject.dll
+D:\Git\PTIT\ServiceProxy\ServiceProxy\UnitTestProject\obj\Release\netcoreapp2.0\UnitTestProject.pdb

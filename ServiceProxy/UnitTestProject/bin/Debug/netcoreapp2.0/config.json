@@ -1,0 +1,1 @@
+{"redis":{"server":"server","auth":"auth","database":0},"proxy":{"listenaddress":"127.0.0.1","listenport":1234,"serveraddress":"baidu.com","serverport":80},"limit":{"LimitingType":0,"MaxTPS":500,"MaxServiceQum":1000,"MaxFreq":100},"logLevel":1}
